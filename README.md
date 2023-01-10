@@ -75,6 +75,8 @@ Terminal demonstration [here] (https://vimeo.com/787767998/a23c3c988f)
 ## Video 
 
 Watch this short video demonstration [here]
+***still having issues trying to get it up and going, will fix in the future***
+![image](https://user-images.githubusercontent.com/108504537/211664519-5b4fbbbb-78da-4098-9bf4-7796760d519a.png)
 
 
 ## Features
